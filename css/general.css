@@ -12,28 +12,27 @@ a {
 }
 
 a.selected {
-	color: #484a93;
+	color: #0ba5a9;
 }
 
 a:hover {
-	color: #484a93;
+	color: #0ba5a9;
 }
 
 a.regular {
 	display: inline;
-	color: #484a93;
-}
-
-div {
-	width: 80%;
-	float: right;
+	color: #0ba5a9;
 }
 
 div.content {
+	float: right;
+	width: 80%;
 	display: none;
 }
 
 div:target {
+	float: right;
+	width: 80%;
 	display: block;
 }
 
